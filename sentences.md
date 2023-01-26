@@ -1,9 +1,7 @@
 # 好的短句
 - **表示迫切做**
 
-$$\begin{cases}
-    \text{cry out for sth}
-\end{cases}$$
+<center>cry out for sth</center>
 
 - **站队**
 
@@ -11,13 +9,10 @@ $$\begin{cases}
 
 - **做。。。没意义**
   
-  $$\begin{cases}
-    \text{there is little/no point in doing sth}
-\end{cases}$$
+ <center> there is little/no point in doing sth</center>
 
 - **将要做/预计做某事**
+<center>due to do sth/due for sth</center>
 
-$$\begin{cases}
-    \text{due to do sth/due for sth}\\
-    \text{be going to do sth}
-\end{cases}$$
+<center>be going to do sth</center>
+ 
