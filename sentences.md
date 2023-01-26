@@ -16,3 +16,7 @@
 
 <center>be going to do sth</center>
  
+ - **取决于**
+  <center>hinge on 依——而定</center>
+
+  <center>depend on 依靠/取决于 </center>
