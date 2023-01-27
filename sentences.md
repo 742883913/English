@@ -7,7 +7,7 @@
 
 <center>take sides in</center>
 
-- **做。。。没意义**
+- **做……没意义**
   
  <center> there is little/no point in doing sth</center>
 
@@ -16,7 +16,12 @@
 
 <center>be going to do sth</center>
  
- - **取决于**
+- **取决于**
   <center>hinge on 依——而定</center>
 
   <center>depend on 依靠/取决于 </center>
+- **由……组成**
+  <center>comprise </center>
+  <center>consist of </center>
+  <center>be made up of</center>
+  
