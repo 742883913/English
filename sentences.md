@@ -25,3 +25,9 @@
   <center>consist of </center>
   <center>be made up of</center>
   
+英文 | 中文
+---|---
+cry out for sth|表示迫切做
+take sides in|站队
+there is little/no point in doing sth|做……没意义
+due to do sth/due for sth<br>be going to do sth|将要做/预计做某事
