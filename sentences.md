@@ -1,33 +1,56 @@
+<head>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      inlineMath: [['$','$']]
+      }
+    });
+  </script>
+</head>
+
 # 好的短句
 - **表示迫切做**
 
-<center>cry out for sth</center>
+  $$\begin{cases}
+  \text{cry out for sth}\\
+  \end{cases}$$
 
 - **站队**
 
-<center>take sides in</center>
+  $$\begin{cases}
+  \text{take sides in}\\
+  \end{cases}$$
+
 
 - **做……没意义**
   
- <center> there is little/no point in doing sth</center>
+  $$\begin{cases}
+  \text{there is little/no point in doing sth}\\
+  \end{cases}$$
 
 - **将要做/预计做某事**
-<center>due to do sth/due for sth</center>
 
-<center>be going to do sth</center>
+  $$\begin{cases}
+  \text{due to do sth/due for sth}\\
+  \text{be going to do sth}\\
+  \end{cases}$$
+
  
 - **取决于**
-  <center>hinge on 依——而定</center>
-
-  <center>depend on 依靠/取决于 </center>
-- **由……组成**
-  <center>comprise </center>
-  <center>consist of </center>
-  <center>be made up of</center>
   
-英文 | 中文
----|---
-cry out for sth|表示迫切做
-take sides in|站队
-there is little/no point in doing sth|做……没意义
-due to do sth/due for sth<br>be going to do sth|将要做/预计做某事
+  $$\begin{cases}
+  \text{hinge on 依——而定}\\
+  \text{depend on 依靠/取决于}\\
+  \end{cases}$$
+
+- **由……组成**
+  
+    $$\begin{cases}
+  \text{comprise}\\
+  \text{consist of}\\
+  \text{be made up of}
+  \end{cases}$$
+
+  
