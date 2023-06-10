@@ -10,8 +10,12 @@
   </script>
 </head>
 
-## 剑桥十
+## 剑桥十(听力7.5)
 
-单词｜词意
-...|...
-reproduction
+单词|词意
+---|---
+reproduction|繁殖
+erosion|侵蚀
+refurbish|翻新
+in place of|代替
+grant|津贴
