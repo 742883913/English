@@ -7,3 +7,5 @@
 [词组](sentences.md)
 
 [同义近义单词](words.md)
+
+[听力遇到的单词](wordsencountered.md)
