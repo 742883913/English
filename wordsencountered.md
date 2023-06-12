@@ -1,3 +1,4 @@
+
 <head>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   <script type="text/x-mathjax-config">
@@ -24,4 +25,10 @@ grant|津贴
 ---|---
 voranda|阳台
 
+## 剑十，2（听力6.5，阅读7.5）
+
+单词|词意
+---｜---
+predominant|占领主导地位的
+forge ahead|锐意进取
 
