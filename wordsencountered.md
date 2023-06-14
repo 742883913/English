@@ -42,6 +42,8 @@
 
 饼状图（pie charts ）或者其他占比例类的数量描述用：the proportion of sth
 
+表格（table）
+
 **写作思路：**
 
 （1）开头改写题目，描述图像
