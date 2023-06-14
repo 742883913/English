@@ -11,7 +11,7 @@
   </script>
 </head>
 
-# 图表描述
+# 动态图表描述
 
 变化|动词
 ---|---
@@ -31,20 +31,38 @@
 动词|increase by 5%|decline by 5%
 词+of|There was an increase of 5%|There was a decline of 5%
 名次在句首|The growth was significant around 5%|The decline was dramatic about 5%
-使用see|The 1990s saw an increase in|Britain saw a steep drop in 
+使用see|The 1990s saw an increase（uplift）in|Britain saw a steep drop in 
 使用up或者down|The consumption reached 5 millionm,up 5% from 1 year ago|.....down5%
 现在分词放在句中|The consumption was 5 million in 1990,rising to 6 million in 1996|sth,dropping to...
 现在分词showing放句中|....,showing an increase of 5%...|showing a decrease of ....
 词组|on the rise |in decline 
 趋势| there was an upward trend |the downward trend
 
-写作思路：
+线状图（line graph）
+
+饼状图（pie charts ）或者其他占比例类的数量描述用：the proportion of sth
+
+**写作思路：**
 
 （1）开头改写题目，描述图像
 
-（2）描述特征，做对比（一般是年代之间对比）
+（2）描述特征，做对比（一般是年代之间对比） 尽量避免用词重复
 
-（3）总结
+（3）总结,分析一下数据而不是只描述趋势
+
+**好的开头**
+
+The charts present the findings of a survey about what British students considered when choosing a institution in two different years. 
+
+**好的句子**
+
+
+
+
+
+
+# 静态图表描述
+
 
 
 
