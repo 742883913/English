@@ -113,9 +113,15 @@ similar to, the same as, different from|The population of A is different from th
 四倍|quadrupled/increased fourfold|four times
 五倍及以上|increased fivefold/sixfold|five times.six times
 
+表达的分类|24岁以下的人|30到39岁的人|超过50岁的人
+---|---|---|---
+aged...|people aged under 24|people aged 30-39<br>people aged betwwen 30 and 39|people aged over 50
+in|/|people in their thirties|people in their fifties
+age group|under-24 age group|30-39 age group|over-50 age group
+...year-old|under-24-year-old people|30-39-year-old people|over-50-year-old people
 
 
-
+表示转折
 
 
 ## 剑十，2（听力6.5，阅读7.5）
