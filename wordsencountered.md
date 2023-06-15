@@ -11,6 +11,8 @@
   </script>
 </head>
 
+
+
 # 动态图表描述
 
 变化|动词
@@ -95,6 +97,22 @@ In conclusion, the data from the table indicates that there were notable trends 
 
 
 # 静态图表描述
+
+不同的情况|例句
+---|---
+比较主句的比较句|Country A has a bigger population than country B.
+比较定语的比较句|The population of country A is bigger than of country B.
+compared with, in contrast to|compared with A,B has a ....
+similar to, the same as, different from|The population of A is different from that of B
+
+
+倍数|动态图|静态图
+---|---|---
+两倍|doubled/increased twofold<br>例句：The rate increased twofold to 4%.|twice<br>例句:The rate of A is (twice as high as)/(higher than) that of B.
+三倍|tripled/increased threefold|three times
+四倍|quadrupled/increased fourfold|four times
+五倍及以上|increased fivefold/sixfold|five times.six times
+
 
 
 
