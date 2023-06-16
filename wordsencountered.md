@@ -121,7 +121,7 @@ age group|under-24 age group|30-39 age group|over-50 age group
 ...year-old|under-24-year-old people|30-39-year-old people|over-50-year-old people
 
 
-表示转折
+**表示对比** ： in contrast to;compared with;higher than ......
 
 
 ## 剑十，2（听力6.5，阅读7.5）
