@@ -124,6 +124,65 @@ age group|under-24 age group|30-39 age group|over-50 age group
 **表示对比** ： in contrast to;compared with;higher than ......
 
 
+# 流程图描述
+
+类型|工序图|生物生长图
+谓语|以被动语态为主|以主动语态较多
+时间|一般不会出现|可能描述生长阶段
+对比|有几种加工方法的工序要对比|不同阶段的对比
+
+类型|工序图|生物生长图
+时态|一般是一般现在时|一般现在时
+确定第一步是什么|一般是原料收集|一般是生物出生或产卵的时候
+分段|写两段从中间分段|写两段从中间分段
+总结|整个流程多少步，简单描述<br>概括不同步骤的主要变化规律或特征
+
+
+**工序图词汇**
+
+收集|gather,collect,harvest
+传送|deliver,send,transfer,transport
+转化|convert into,transform into
+混合|mix,blend
+使用|utlise,employ,use,apply
+扔掉|remove,throw away,dispose of 
+生产，产生，制造|produce,generate,create,make
+加热，弄干，降温|heat,dry,cool,freeze
+压缩|condenss,compress
+加工|process
+装罐，包装|can,pack,package
+
+**生长图词汇**
+
+产软|lay eggs,produce eggs,deposit eggs
+孵化|hatch eggs,incubate eggs
+破卵而出|break the shell,come out of eggs,emerge from eggs,hatch from eggs,egg breaks,egg cracks
+变大|grow older,is reared
+成年|reach maturity,grow to maturity,attain/reach maturity/adulthood,come to maturity,mature to adult,fully matured
+
+**阶段描述连词**
+
+第一阶段|at the first stage<br>the first/initial step<br>the early/first/initial phase<br>at the larval stage（在幼虫的阶段）,life stages（生命的阶段）
+下一阶段|at the next/second stage,enter/reach the next stage,mark the stage of ,the next step,the second phase
+最后的阶段|at the final stage<br>the final/last step<br>the final/last phase<br>at the adult/mature stage
+总结|go through ,consist of 
+
+
+表示随后，下一步：then,afterward,subsequently,next
+
+最终：finally,eventually
+
+每个阶段的时间描述：
+
+it takes () to;This stage lasts for ();After a period of ();For();During a () period
+
+增加句子变化的方法：
+
+并列句<br>and,or| .... and then....
+状语从句<br>after,before,until,once|...before...
+定语从句<br>where,in which,after which|Tea are washed and then put in a container where they are dried
+
+
 ## 剑十，2（听力6.5，阅读7.5）
 
 单词|词意
