@@ -5,4 +5,4 @@
 ## 项目作者：王姆斯（名言：华科有手就行）
 
 
-[听力遇到的单词](wordsencountered.md)
+[雅思学习](wordsencountered.md)
