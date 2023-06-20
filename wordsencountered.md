@@ -183,6 +183,52 @@ it takes () to;This stage lasts for ();After a period of ();For();During a () pe
 定语从句<br>where,in which,after which|Tea are washed and then put in a container where they are dried
 
 
+# 地图介绍
+
+词意|所用动词
+---|---
+位于|located,situated,sited,lie(没有被动语态)
+连接|link,connect,join
+某地点的面积变大|extended
+某地点的面积变小|reduced in size
+某地点被去掉|replaced,demolished,removed,displaced
+某地点转移|relocated
+新的建筑物|built,constructed,developed,created,proposed,added
+
+in the south of the island|在岛的南部
+---|---
+on the south of|在。。。南边
+to the south of the city|在城外的南边
+near,next to,close to,adjacent to|在。。。附近
+be located within a forest|位于一片森林里
+outside of|在。。。外面
+alongside|沿着
+
+edge,side|on the north side of the village
+---|---
+wing|建筑物的一侧，in the west wing
+end，tip|地方的尽头, on the south end of sth
+corner|在一个地方的一角，at the north corner of ...
+at the front of|在...前面
+at the back of|在...后面
+
+类型|过去|现在|未来
+---|---|---|---
+形容词|old,past,original|current,existing,present|future,planned,proposed
+状语|in the past|currently,now,at present|in the future,according to the plan,as planned，
+
+**graph** only for **line graph,bar chart**
+
+**chart** only for **line graph,bar chart,bar chart(柱状图)，table（表格）**
+
+**diagram** only for **process diagram,map**
+
+句型|例子
+---|---
+there be|略
+倒装|To the south of the park is a building
+with+分词结构|The park with a new apartment to the south.
+
 ## 剑十，2（听力6.5，阅读7.5）
 
 单词|词意
