@@ -11,6 +11,14 @@
   </script>
 </head>
 
+- [动态图表描述](#动态图表描述)
+- [静态图表描述](#静态图表描述)
+- [流程图描述](#流程图描述)
+- [地图介绍](#地图介绍)
+- [大作文](#大作文)
+  - [剑十，2（听力6.5，阅读7.5）](#剑十2听力65阅读75)
+
+
 
 
 # 动态图表描述
@@ -124,6 +132,8 @@ age group|under-24 age group|30-39 age group|over-50 age group
 **表示对比** ： in contrast to;compared with;higher than ......
 
 
+
+
 # 流程图描述
 
 类型|工序图|生物生长图
@@ -183,6 +193,8 @@ it takes () to;This stage lasts for ();After a period of ();For();During a () pe
 定语从句<br>where,in which,after which|Tea are washed and then put in a container where they are dried
 
 
+
+
 # 地图介绍
 
 词意|所用动词
@@ -228,6 +240,11 @@ at the back of|在...后面
 there be|略
 倒装|To the south of the park is a building
 with+分词结构|The park with a new apartment to the south.
+
+# 大作文
+
+
+
 
 ## 剑十，2（听力6.5，阅读7.5）
 
