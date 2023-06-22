@@ -243,6 +243,52 @@ with+分词结构|The park with a new apartment to the south.
 
 # 大作文
 
+**优缺点类文章**：
+（一）优点和缺点都得一起写
+
+（二）出现rather than 将前面的内容作为观点写，后面的内容对比
+
+**观点类题目**：
+（一）如果出现两个观点，支持的话两个都要支持，反之，则需反对一个观点即可。
+
+（二）出现as...as,只讨论as前的内容
+
+（三）出现rather than前后的内容都可以作为观点去写
+
+（四）出现the only way,the best way可以顺着观点写，也可以重新找一个way来达到一样的效果
+
+不好的一面：downside
+
+关系|连词
+---|---
+表示并列关系|in addition,moreover,additionally,what's more,apart from this,meanwhile,in the mean time
+表示举例|to be specific,for example,for instance
+表示对比|by comparison,in contrast,alternatively,conversely,instead
+表示结果|therefore,as a result,as a consequence,as such, because of this,for this reason,in this way
+
+**论述类题目**
+
+文章结构（可增加第三段说明自己的立场）:
+（一）开头段
+
+（二）为什么第一个观点对
+
+（三）为什么第二个观点对
+
+（四）结尾段，要出现结尾段，总结自己的最终立场
+
+
+
+开头段这么写：
+
+第一句话|第二句话
+---|---
+改写自己的立场<br>International coorperation is considered to beneficial to environmental protection.|说明自己支持这个立场，然后以while or although带出相反立场<br>I agree with this view,although some people believe it can yield commercial benefits only
+
+**报告类题目**
+
+
+
 
 
 
